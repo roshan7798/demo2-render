@@ -6,4 +6,3 @@ edge-tts
 numpy
 scipy
 soundfile
-ffmpeg-python
