@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+torchaudio
+google-genai
+edge-tts
+numpy
+scipy
+soundfile
+ffmpeg-python
