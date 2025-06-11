@@ -1,7 +1,7 @@
-%%capture
+
 !pip install fastapi uvicorn pyngrok torchaudio google-genai edge-tts
 
-%%capture
+
 !apt-get install ffmpeg
 
 
