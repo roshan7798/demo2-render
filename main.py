@@ -1,10 +1,4 @@
 
-!pip install fastapi uvicorn pyngrok torchaudio google-genai edge-tts
-
-
-!apt-get install ffmpeg
-
-
 import edge_tts
 import os
 from google import genai
